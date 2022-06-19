@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm leidy garavito paez <img src="https://i.pinimg.com/originals/80/7b/5c/807b5c4b02e765bb4930b7c66662ef4b.gif" width="50"></h1>
 <h3 align="center">A passionate frontend developer from Colombia Bogota</h3>
 
-## Frond-end Development !!! <img src="https://66.media.tumblr.com/50718b80406867d8a6e7aa063af47bd1/63065902e4a8cc57-d9/s500x750/b5e967738f5658302dca4df615f840342b961964.gif" width="50">
+## Front-end Development !!! <img src="https://66.media.tumblr.com/50718b80406867d8a6e7aa063af47bd1/63065902e4a8cc57-d9/s500x750/b5e967738f5658302dca4df615f840342b961964.gif" width="50">
 <img align="center" src= "https://i.pinimg.com/originals/a9/4c/9f/a94c9fc08b9a5d9d3e9dd8df59bb1553.gif" width="1000" height="250">
 <h4 align="center">Software engineering student with knowledge in Photoshop, Illustrator, Figma and basic adobe XD, I'm a developer front end in javascript html and CSS with basic knowledge in back end, I really want to learn more about technology and programming languages.</h4>
 
