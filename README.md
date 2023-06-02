@@ -31,6 +31,9 @@ I love technology ❤️ since I was little I always watched video games in a cu
 </p>
 
 <h3 align="left">✨ Languages and Tools:</h3>
+
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 <img src = "https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript">&nbsp;
 <img src = "https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript">&nbsp;
 <img src = "https://img.shields.io/badge/-C%23-05122A?style=flat&logo=csharp">&nbsp;
