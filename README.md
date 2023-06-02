@@ -24,13 +24,8 @@ const LeidyPaez = {
 I love technology ❤️ since I was little I always watched video games in a curious way because I did not know how the characters could move through the television, my curiosity made me uncover one of the consoles to know what it was like inside and from that moment I knew that technology It was my thing, although I also saw the design of each video game and how they evolved I realized how artistic it is, art and technology combined make a wonderful world, a world in which I want to be in the future learning to program video games. ✨
    
 <h2 align="center">❤ I love the world of art and technology!!! ❤</h2>
-   
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/leidy-paez-3963b1220/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/leidy-paez-3963b1220/" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">✨ Languages and Tools:</h3>
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"><h3 align="left">✨ Languages and Tools:</h3>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
