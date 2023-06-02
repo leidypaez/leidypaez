@@ -39,20 +39,20 @@ I love technology ❤️ since I was little I always watched video games in a cu
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-<img src = "https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux">&nbsp;
-<img src = "https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C">&nbsp;
-<img src = "https://img.shields.io/badge/-MaterialUI-05122A?style=flat&logo=mui">&nbsp;
+![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
+![Material UI](https://img.shields.io/badge/-MaterialUI-05122A?style=flat&logo=mui)&nbsp;
 
 ***
-<img src = "https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js">&nbsp;
-<img src = "https://img.shields.io/badge/-Express-05122A?style=flat&logo=express">&nbsp;
-<img src = "https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb">&nbsp;
-<img src = "https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase">&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)&nbsp;
+![Mongo](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
+![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)&nbsp;
 
 ***
-<img src = "https://img.shields.io/badge/-Python-05122A?style=flat&logo=python">&nbsp;
-<img src = "https://img.shields.io/badge/-Git-05122A?style=flat&logo=git">&nbsp;
-<img src = "https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github">&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
 
 ***
