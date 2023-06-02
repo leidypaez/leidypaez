@@ -31,15 +31,16 @@ I love technology ❤️ since I was little I always watched video games in a cu
 </p>
 
 <h3 align="left">✨ Languages and Tools:</h3>
+### <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>  Tech Stack  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
+![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=csharp)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
 ![Material UI](https://img.shields.io/badge/-MaterialUI-05122A?style=flat&logo=mui)&nbsp;
-![Jest](https://img.shields.io/badge/-Jest-05122A?style=flat&logo=jest)&nbsp;
 --
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)&nbsp;
